@@ -23,3 +23,4 @@
 + result6: 따릉이 이용이 유동인구(통근)와 연관성 있는 것은 맞지만 아직 직장인 상권과는 크게 연관성 있어 보이지 않는다.
 
 > 데이터 출처 : 공공데이터 포털(공공자전거,상권데이터,인구데이터)
+[따세권EDA 분석코드 ](http://nbviewer.jupyter.org/gist/miningful/42aaa00b607f0fa583ccfcd94475b6eb)
